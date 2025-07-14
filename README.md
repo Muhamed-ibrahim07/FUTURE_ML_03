@@ -113,16 +113,11 @@ You can host this chatbot on:
 ## 🙋‍♂️ Author
 
 **Muhamed Ibrahim**  
-📧 [md.ibrahim984343@gmail.com](mailto:md.ibrahim984343@gmail.com)  
+📧 [mmohdibi@gmail.com](mailto:mmohdibi@gmail.com)  
 💼 Project for Future Interns – Task 3
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## ⭐ Show Some Love
 
