@@ -4,12 +4,6 @@ A beginner-friendly, AI-powered chatbot using **Streamlit + Dialogflow** for rea
 
 ---
 
-## 📸 Preview
-
-![HelpBot Screenshot](https://via.placeholder.com/800x400?text=Chatbot+Preview+Here)
-
----
-
 ## 🚀 Features
 
 - ✅ Streamlit frontend chat UI  
